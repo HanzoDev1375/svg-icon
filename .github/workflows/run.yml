@@ -1,0 +1,43 @@
+name: Update SVG Icons JSON
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  update-json:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: pip install requests
+
+    - name: Run Python script to update JSON
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITTOKEN }}
+      run: |
+        python -c "$(curl -fsSL https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/runer.py || echo 'exit(1)')"
+
+
+    - name: Commit and push changes if JSON was updated
+      run: |
+        git config --global user.name "GitHub Actions"
+        git config --global user.email "actions@github.com"
+        git add /sdcard/hsi.json
+        if [ -n "$(git status --porcelain)" ]; then
+          git commit -m "Automated update of SVG icons JSON [skip ci]"
+          git push
+        else
+          echo "No changes to commit"
+        fi
