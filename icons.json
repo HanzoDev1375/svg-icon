@@ -14678,5 +14678,5529 @@
   {
     "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/Stroke/Wifi Signal/wireless.svg",
     "name": "wireless.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/access.svg",
+    "name": "access.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/access2.svg",
+    "name": "access2.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/actionscript.svg",
+    "name": "actionscript.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/actionscript2.svg",
+    "name": "actionscript2.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/ada.svg",
+    "name": "ada.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/advpl.svg",
+    "name": "advpl.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/affectscript.svg",
+    "name": "affectscript.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/affinitydesigner.svg",
+    "name": "affinitydesigner.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/affinityphoto.svg",
+    "name": "affinityphoto.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/affinitypublisher.svg",
+    "name": "affinitypublisher.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/agda.svg",
+    "name": "agda.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/ai.svg",
+    "name": "ai.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/ai2.svg",
+    "name": "ai2.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/al.svg",
+    "name": "al.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/al_dal.svg",
+    "name": "al_dal.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/allcontributors.svg",
+    "name": "allcontributors.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/angular.svg",
+    "name": "angular.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/ansible.svg",
+    "name": "ansible.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/antlers_html.svg",
+    "name": "antlers_html.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/antlr.svg",
+    "name": "antlr.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/anyscript.svg",
+    "name": "anyscript.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/apache.svg",
+    "name": "apache.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/apex.svg",
+    "name": "apex.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/api_extractor.svg",
+    "name": "api_extractor.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/apib.svg",
+    "name": "apib.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/apib2.svg",
+    "name": "apib2.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/apl.svg",
+    "name": "apl.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/applescript.svg",
+    "name": "applescript.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/appscript.svg",
+    "name": "appscript.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/appsemble.svg",
+    "name": "appsemble.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/appveyor.svg",
+    "name": "appveyor.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/arduino.svg",
+    "name": "arduino.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/asciidoc.svg",
+    "name": "asciidoc.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/asp.svg",
+    "name": "asp.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/aspx.svg",
+    "name": "aspx.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/assembly.svg",
+    "name": "assembly.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/astro.svg",
+    "name": "astro.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/astroconfig.svg",
+    "name": "astroconfig.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/atom.svg",
+    "name": "atom.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/ats.svg",
+    "name": "ats.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/attw.svg",
+    "name": "attw.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/audio.svg",
+    "name": "audio.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/aurelia.svg",
+    "name": "aurelia.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/autohotkey.svg",
+    "name": "autohotkey.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/autoit.svg",
+    "name": "autoit.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/avif.svg",
+    "name": "avif.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/avro.svg",
+    "name": "avro.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/awk.svg",
+    "name": "awk.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/aws.svg",
+    "name": "aws.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/azure.svg",
+    "name": "azure.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/azurepipelines.svg",
+    "name": "azurepipelines.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/babel.svg",
+    "name": "babel.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/babel2.svg",
+    "name": "babel2.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/bak.svg",
+    "name": "bak.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/ballerina.svg",
+    "name": "ballerina.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/bat.svg",
+    "name": "bat.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/bats.svg",
+    "name": "bats.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/bazaar.svg",
+    "name": "bazaar.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/bazel.svg",
+    "name": "bazel.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/bazel_ignore.svg",
+    "name": "bazel_ignore.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/bazel_version.svg",
+    "name": "bazel_version.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/befunge.svg",
+    "name": "befunge.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/bicep.svg",
+    "name": "bicep.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/biml.svg",
+    "name": "biml.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/binary.svg",
+    "name": "binary.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/biome.svg",
+    "name": "biome.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/bitbucketpipeline.svg",
+    "name": "bitbucketpipeline.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/bithound.svg",
+    "name": "bithound.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/blade.svg",
+    "name": "blade.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/blender.svg",
+    "name": "blender.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/blitzbasic.svg",
+    "name": "blitzbasic.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/bolt.svg",
+    "name": "bolt.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/bosque.svg",
+    "name": "bosque.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/bower.svg",
+    "name": "bower.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/bower2.svg",
+    "name": "bower2.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/browserslist.svg",
+    "name": "browserslist.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/bruno.svg",
+    "name": "bruno.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/buckbuild.svg",
+    "name": "buckbuild.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/buf.svg",
+    "name": "buf.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/bun.svg",
+    "name": "bun.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/bundlemon.svg",
+    "name": "bundlemon.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/bundler.svg",
+    "name": "bundler.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/bunfig.svg",
+    "name": "bunfig.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/c.svg",
+    "name": "c.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/c2.svg",
+    "name": "c2.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/c3.svg",
+    "name": "c3.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/c_al.svg",
+    "name": "c_al.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/cabal.svg",
+    "name": "cabal.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/caddy.svg",
+    "name": "caddy.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/cake.svg",
+    "name": "cake.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/cakephp.svg",
+    "name": "cakephp.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/capacitor.svg",
+    "name": "capacitor.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/capnp.svg",
+    "name": "capnp.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/cargo.svg",
+    "name": "cargo.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/casc.svg",
+    "name": "casc.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/cddl.svg",
+    "name": "cddl.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/cert.svg",
+    "name": "cert.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/ceylon.svg",
+    "name": "ceylon.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/cf.svg",
+    "name": "cf.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/cf2.svg",
+    "name": "cf2.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/cfc.svg",
+    "name": "cfc.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/cfc2.svg",
+    "name": "cfc2.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/cfm.svg",
+    "name": "cfm.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/cfm2.svg",
+    "name": "cfm2.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/changie.svg",
+    "name": "changie.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/cheader.svg",
+    "name": "cheader.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/chef.svg",
+    "name": "chef.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/chef_cookbook.svg",
+    "name": "chef_cookbook.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/circleci.svg",
+    "name": "circleci.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/class.svg",
+    "name": "class.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/claude.svg",
+    "name": "claude.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/clojure.svg",
+    "name": "clojure.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/clojurescript.svg",
+    "name": "clojurescript.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/cloudfoundry.svg",
+    "name": "cloudfoundry.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/cmake.svg",
+    "name": "cmake.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/cobol.svg",
+    "name": "cobol.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/codacy.svg",
+    "name": "codacy.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/codeclimate.svg",
+    "name": "codeclimate.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/codecov.svg",
+    "name": "codecov.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/codekit.svg",
+    "name": "codekit.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/codemagic.svg",
+    "name": "codemagic.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/codeowners.svg",
+    "name": "codeowners.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/codeql.svg",
+    "name": "codeql.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/coderabbit.svg",
+    "name": "coderabbit.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/coffeelint.svg",
+    "name": "coffeelint.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/coffeescript.svg",
+    "name": "coffeescript.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/commitizen.svg",
+    "name": "commitizen.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/commitlint.svg",
+    "name": "commitlint.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/compass.svg",
+    "name": "compass.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/composer.svg",
+    "name": "composer.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/conan.svg",
+    "name": "conan.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/conda.svg",
+    "name": "conda.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/config.svg",
+    "name": "config.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/confluence.svg",
+    "name": "confluence.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/copilot.svg",
+    "name": "copilot.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/coverage.svg",
+    "name": "coverage.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/coveralls.svg",
+    "name": "coveralls.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/cpp.svg",
+    "name": "cpp.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/cpp2.svg",
+    "name": "cpp2.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/cpp3.svg",
+    "name": "cpp3.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/cppheader.svg",
+    "name": "cppheader.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/craco.svg",
+    "name": "craco.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/crowdin.svg",
+    "name": "crowdin.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/crystal.svg",
+    "name": "crystal.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/csharp.svg",
+    "name": "csharp.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/csharp2.svg",
+    "name": "csharp2.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/cspell.svg",
+    "name": "cspell.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/csproj.svg",
+    "name": "csproj.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/css.svg",
+    "name": "css.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/css2.svg",
+    "name": "css2.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/css2map.svg",
+    "name": "css2map.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/csscomb.svg",
+    "name": "csscomb.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/csslint.svg",
+    "name": "csslint.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/cssmap.svg",
+    "name": "cssmap.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/cucumber.svg",
+    "name": "cucumber.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/cuda.svg",
+    "name": "cuda.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/cursorrules.svg",
+    "name": "cursorrules.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/cvs.svg",
+    "name": "cvs.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/cypress.svg",
+    "name": "cypress.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/cypress_spec.svg",
+    "name": "cypress_spec.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/cython.svg",
+    "name": "cython.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/dal.svg",
+    "name": "dal.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/darcs.svg",
+    "name": "darcs.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/dartlang.svg",
+    "name": "dartlang.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/dartlang_generated.svg",
+    "name": "dartlang_generated.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/dartlang_ignore.svg",
+    "name": "dartlang_ignore.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/datadog.svg",
+    "name": "datadog.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/db.svg",
+    "name": "db.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/debian.svg",
+    "name": "debian.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/default_file.svg",
+    "name": "default_file.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/default_folder.svg",
+    "name": "default_folder.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/default_folder_opened.svg",
+    "name": "default_folder_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/default_root_folder.svg",
+    "name": "default_root_folder.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/default_root_folder_opened.svg",
+    "name": "default_root_folder_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/delphi.svg",
+    "name": "delphi.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/deno.svg",
+    "name": "deno.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/denoify.svg",
+    "name": "denoify.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/dependabot.svg",
+    "name": "dependabot.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/dependencies.svg",
+    "name": "dependencies.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/devcontainer.svg",
+    "name": "devcontainer.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/dhall.svg",
+    "name": "dhall.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/diff.svg",
+    "name": "diff.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/django.svg",
+    "name": "django.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/dlang.svg",
+    "name": "dlang.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/docker.svg",
+    "name": "docker.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/docker2.svg",
+    "name": "docker2.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/dockertest.svg",
+    "name": "dockertest.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/dockertest2.svg",
+    "name": "dockertest2.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/docpad.svg",
+    "name": "docpad.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/docusaurus.svg",
+    "name": "docusaurus.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/docz.svg",
+    "name": "docz.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/dojo.svg",
+    "name": "dojo.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/doppler.svg",
+    "name": "doppler.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/dotenv.svg",
+    "name": "dotenv.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/dotjs.svg",
+    "name": "dotjs.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/doxygen.svg",
+    "name": "doxygen.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/drawio.svg",
+    "name": "drawio.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/drone.svg",
+    "name": "drone.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/drools.svg",
+    "name": "drools.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/dtd.svg",
+    "name": "dtd.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/dune.svg",
+    "name": "dune.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/dustjs.svg",
+    "name": "dustjs.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/dvc.svg",
+    "name": "dvc.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/dylan.svg",
+    "name": "dylan.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/earthly.svg",
+    "name": "earthly.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/eas-metadata.svg",
+    "name": "eas-metadata.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/edge.svg",
+    "name": "edge.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/edge2.svg",
+    "name": "edge2.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/editorconfig.svg",
+    "name": "editorconfig.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/eex.svg",
+    "name": "eex.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/ejs.svg",
+    "name": "ejs.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/elastic.svg",
+    "name": "elastic.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/elasticbeanstalk.svg",
+    "name": "elasticbeanstalk.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/eleventy.svg",
+    "name": "eleventy.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/eleventy2.svg",
+    "name": "eleventy2.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/elixir.svg",
+    "name": "elixir.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/elm.svg",
+    "name": "elm.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/elm2.svg",
+    "name": "elm2.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/emacs.svg",
+    "name": "emacs.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/ember.svg",
+    "name": "ember.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/ensime.svg",
+    "name": "ensime.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/eps.svg",
+    "name": "eps.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/epub.svg",
+    "name": "epub.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/erb.svg",
+    "name": "erb.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/erlang.svg",
+    "name": "erlang.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/erlang2.svg",
+    "name": "erlang2.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/esbuild.svg",
+    "name": "esbuild.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/eslint.svg",
+    "name": "eslint.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/eslint2.svg",
+    "name": "eslint2.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/esphome.svg",
+    "name": "esphome.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/excalidraw.svg",
+    "name": "excalidraw.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/excel.svg",
+    "name": "excel.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/excel2.svg",
+    "name": "excel2.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/expo.svg",
+    "name": "expo.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/falcon.svg",
+    "name": "falcon.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/fantasticon.svg",
+    "name": "fantasticon.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/fastly.svg",
+    "name": "fastly.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/fauna.svg",
+    "name": "fauna.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/favicon.svg",
+    "name": "favicon.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/fbx.svg",
+    "name": "fbx.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/firebase.svg",
+    "name": "firebase.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/firebasehosting.svg",
+    "name": "firebasehosting.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/firestore.svg",
+    "name": "firestore.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/fitbit.svg",
+    "name": "fitbit.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/fla.svg",
+    "name": "fla.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/flareact.svg",
+    "name": "flareact.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/flash.svg",
+    "name": "flash.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/floobits.svg",
+    "name": "floobits.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/flow.svg",
+    "name": "flow.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/flutter.svg",
+    "name": "flutter.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/flutter_package.svg",
+    "name": "flutter_package.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/flyio.svg",
+    "name": "flyio.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-android.svg",
+    "name": "folder-android.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-android_opened.svg",
+    "name": "folder-android_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-api.svg",
+    "name": "folder-api.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-api_opened.svg",
+    "name": "folder-api_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-app.svg",
+    "name": "folder-app.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-app_opened.svg",
+    "name": "folder-app_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-arangodb.svg",
+    "name": "folder-arangodb.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-arangodb_opened.svg",
+    "name": "folder-arangodb_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-asset.svg",
+    "name": "folder-asset.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-asset_opened.svg",
+    "name": "folder-asset_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-audio.svg",
+    "name": "folder-audio.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-audio_opened.svg",
+    "name": "folder-audio_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-aurelia.svg",
+    "name": "folder-aurelia.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-aurelia_opened.svg",
+    "name": "folder-aurelia_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-aws.svg",
+    "name": "folder-aws.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-aws_opened.svg",
+    "name": "folder-aws_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-azure.svg",
+    "name": "folder-azure.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-azure_opened.svg",
+    "name": "folder-azure_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-azurepipelines.svg",
+    "name": "folder-azurepipelines.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-azurepipelines_opened.svg",
+    "name": "folder-azurepipelines_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-binary.svg",
+    "name": "folder-binary.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-binary_opened.svg",
+    "name": "folder-binary_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-bloc.svg",
+    "name": "folder-bloc.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-bloc_opened.svg",
+    "name": "folder-bloc_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-blueprint.svg",
+    "name": "folder-blueprint.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-blueprint_opened.svg",
+    "name": "folder-blueprint_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-bot.svg",
+    "name": "folder-bot.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-bot_opened.svg",
+    "name": "folder-bot_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-bower.svg",
+    "name": "folder-bower.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-bower_opened.svg",
+    "name": "folder-bower_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-buildkite.svg",
+    "name": "folder-buildkite.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-buildkite_opened.svg",
+    "name": "folder-buildkite_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-cake.svg",
+    "name": "folder-cake.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-cake_opened.svg",
+    "name": "folder-cake_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-certificate.svg",
+    "name": "folder-certificate.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-certificate_opened.svg",
+    "name": "folder-certificate_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-changesets.svg",
+    "name": "folder-changesets.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-changesets_opened.svg",
+    "name": "folder-changesets_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-chef.svg",
+    "name": "folder-chef.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-chef_opened.svg",
+    "name": "folder-chef_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-circleci.svg",
+    "name": "folder-circleci.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-circleci_opened.svg",
+    "name": "folder-circleci_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-cli.svg",
+    "name": "folder-cli.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-cli_opened.svg",
+    "name": "folder-cli_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-client.svg",
+    "name": "folder-client.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-client_opened.svg",
+    "name": "folder-client_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-cmake.svg",
+    "name": "folder-cmake.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-cmake_opened.svg",
+    "name": "folder-cmake_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-common.svg",
+    "name": "folder-common.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-common_opened.svg",
+    "name": "folder-common_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-component.svg",
+    "name": "folder-component.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-component_opened.svg",
+    "name": "folder-component_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-composer.svg",
+    "name": "folder-composer.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-composer_opened.svg",
+    "name": "folder-composer_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-config.svg",
+    "name": "folder-config.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-config_opened.svg",
+    "name": "folder-config_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-controller.svg",
+    "name": "folder-controller.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-controller_opened.svg",
+    "name": "folder-controller_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-coverage.svg",
+    "name": "folder-coverage.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-coverage_opened.svg",
+    "name": "folder-coverage_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-css.svg",
+    "name": "folder-css.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-css2.svg",
+    "name": "folder-css2.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-css2_opened.svg",
+    "name": "folder-css2_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-css_opened.svg",
+    "name": "folder-css_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-cubit.svg",
+    "name": "folder-cubit.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-cubit_opened.svg",
+    "name": "folder-cubit_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-cypress.svg",
+    "name": "folder-cypress.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-cypress_opened.svg",
+    "name": "folder-cypress_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-dapr.svg",
+    "name": "folder-dapr.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-dapr_opened.svg",
+    "name": "folder-dapr_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-datadog.svg",
+    "name": "folder-datadog.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-datadog_opened.svg",
+    "name": "folder-datadog_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-db.svg",
+    "name": "folder-db.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-db_opened.svg",
+    "name": "folder-db_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-debian.svg",
+    "name": "folder-debian.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-debian_opened.svg",
+    "name": "folder-debian_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-dependabot.svg",
+    "name": "folder-dependabot.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-dependabot_opened.svg",
+    "name": "folder-dependabot_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-devcontainer.svg",
+    "name": "folder-devcontainer.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-devcontainer_opened.svg",
+    "name": "folder-devcontainer_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-dist.svg",
+    "name": "folder-dist.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-dist_opened.svg",
+    "name": "folder-dist_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-docker.svg",
+    "name": "folder-docker.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-docker_opened.svg",
+    "name": "folder-docker_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-docs.svg",
+    "name": "folder-docs.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-docs_opened.svg",
+    "name": "folder-docs_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-e2e.svg",
+    "name": "folder-e2e.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-e2e_opened.svg",
+    "name": "folder-e2e_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-elasticbeanstalk.svg",
+    "name": "folder-elasticbeanstalk.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-elasticbeanstalk_opened.svg",
+    "name": "folder-elasticbeanstalk_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-electron.svg",
+    "name": "folder-electron.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-electron_opened.svg",
+    "name": "folder-electron_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-expo.svg",
+    "name": "folder-expo.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-expo_opened.svg",
+    "name": "folder-expo_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-favicon.svg",
+    "name": "folder-favicon.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-favicon_opened.svg",
+    "name": "folder-favicon_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-flow.svg",
+    "name": "folder-flow.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-flow_opened.svg",
+    "name": "folder-flow_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-fonts.svg",
+    "name": "folder-fonts.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-fonts_opened.svg",
+    "name": "folder-fonts_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-frontcommerce.svg",
+    "name": "folder-frontcommerce.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-frontcommerce_opened.svg",
+    "name": "folder-frontcommerce_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-gcp.svg",
+    "name": "folder-gcp.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-gcp_opened.svg",
+    "name": "folder-gcp_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-git.svg",
+    "name": "folder-git.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-git_opened.svg",
+    "name": "folder-git_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-github.svg",
+    "name": "folder-github.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-github_opened.svg",
+    "name": "folder-github_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-gitlab.svg",
+    "name": "folder-gitlab.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-gitlab_opened.svg",
+    "name": "folder-gitlab_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-gradle.svg",
+    "name": "folder-gradle.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-gradle_opened.svg",
+    "name": "folder-gradle_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-graphql.svg",
+    "name": "folder-graphql.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-graphql_opened.svg",
+    "name": "folder-graphql_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-grunt.svg",
+    "name": "folder-grunt.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-grunt_opened.svg",
+    "name": "folder-grunt_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-gulp.svg",
+    "name": "folder-gulp.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-gulp_opened.svg",
+    "name": "folder-gulp_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-haxelib.svg",
+    "name": "folder-haxelib.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-haxelib_opened.svg",
+    "name": "folder-haxelib_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-helper.svg",
+    "name": "folder-helper.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-helper_opened.svg",
+    "name": "folder-helper_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-hook.svg",
+    "name": "folder-hook.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-hook_opened.svg",
+    "name": "folder-hook_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-husky.svg",
+    "name": "folder-husky.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-husky_opened.svg",
+    "name": "folder-husky_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-idea.svg",
+    "name": "folder-idea.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-idea_opened.svg",
+    "name": "folder-idea_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-images.svg",
+    "name": "folder-images.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-images_opened.svg",
+    "name": "folder-images_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-include.svg",
+    "name": "folder-include.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-include_opened.svg",
+    "name": "folder-include_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-interfaces.svg",
+    "name": "folder-interfaces.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-interfaces_opened.svg",
+    "name": "folder-interfaces_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-ios.svg",
+    "name": "folder-ios.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-ios_opened.svg",
+    "name": "folder-ios_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-js.svg",
+    "name": "folder-js.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-js_opened.svg",
+    "name": "folder-js_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-json.svg",
+    "name": "folder-json.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-json_official.svg",
+    "name": "folder-json_official.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-json_official_opened.svg",
+    "name": "folder-json_official_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-json_opened.svg",
+    "name": "folder-json_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-kubernetes.svg",
+    "name": "folder-kubernetes.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-kubernetes_opened.svg",
+    "name": "folder-kubernetes_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-less.svg",
+    "name": "folder-less.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-less_opened.svg",
+    "name": "folder-less_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-library.svg",
+    "name": "folder-library.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-library_opened.svg",
+    "name": "folder-library_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-light_cypress.svg",
+    "name": "folder-light_cypress.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-light_cypress_opened.svg",
+    "name": "folder-light_cypress_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-light_electron.svg",
+    "name": "folder-light_electron.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-light_electron_opened.svg",
+    "name": "folder-light_electron_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-light_expo.svg",
+    "name": "folder-light_expo.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-light_expo_opened.svg",
+    "name": "folder-light_expo_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-light_fonts.svg",
+    "name": "folder-light_fonts.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-light_fonts_opened.svg",
+    "name": "folder-light_fonts_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-light_gradle.svg",
+    "name": "folder-light_gradle.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-light_gradle_opened.svg",
+    "name": "folder-light_gradle_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-light_meteor.svg",
+    "name": "folder-light_meteor.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-light_meteor_opened.svg",
+    "name": "folder-light_meteor_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-light_mypy.svg",
+    "name": "folder-light_mypy.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-light_mypy_opened.svg",
+    "name": "folder-light_mypy_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-light_mysql.svg",
+    "name": "folder-light_mysql.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-light_mysql_opened.svg",
+    "name": "folder-light_mysql_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-light_node.svg",
+    "name": "folder-light_node.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-light_node_opened.svg",
+    "name": "folder-light_node_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-light_redux.svg",
+    "name": "folder-light_redux.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-light_redux_opened.svg",
+    "name": "folder-light_redux_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-light_sass.svg",
+    "name": "folder-light_sass.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-light_sass_opened.svg",
+    "name": "folder-light_sass_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-linux.svg",
+    "name": "folder-linux.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-linux_opened.svg",
+    "name": "folder-linux_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-locale.svg",
+    "name": "folder-locale.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-locale_opened.svg",
+    "name": "folder-locale_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-log.svg",
+    "name": "folder-log.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-log_opened.svg",
+    "name": "folder-log_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-macos.svg",
+    "name": "folder-macos.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-macos_opened.svg",
+    "name": "folder-macos_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-mariadb.svg",
+    "name": "folder-mariadb.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-mariadb_opened.svg",
+    "name": "folder-mariadb_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-maven.svg",
+    "name": "folder-maven.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-maven_opened.svg",
+    "name": "folder-maven_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-mediawiki.svg",
+    "name": "folder-mediawiki.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-mediawiki_opened.svg",
+    "name": "folder-mediawiki_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-memcached.svg",
+    "name": "folder-memcached.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-memcached_opened.svg",
+    "name": "folder-memcached_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-meteor.svg",
+    "name": "folder-meteor.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-meteor_opened.svg",
+    "name": "folder-meteor_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-middleware.svg",
+    "name": "folder-middleware.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-middleware_opened.svg",
+    "name": "folder-middleware_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-minecraft.svg",
+    "name": "folder-minecraft.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-minecraft_opened.svg",
+    "name": "folder-minecraft_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-minikube.svg",
+    "name": "folder-minikube.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-minikube_opened.svg",
+    "name": "folder-minikube_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-mjml.svg",
+    "name": "folder-mjml.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-mjml_opened.svg",
+    "name": "folder-mjml_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-mock.svg",
+    "name": "folder-mock.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-mock_opened.svg",
+    "name": "folder-mock_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-model.svg",
+    "name": "folder-model.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-model_opened.svg",
+    "name": "folder-model_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-module.svg",
+    "name": "folder-module.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-module_opened.svg",
+    "name": "folder-module_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-mojo.svg",
+    "name": "folder-mojo.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-mojo_opened.svg",
+    "name": "folder-mojo_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-mongodb.svg",
+    "name": "folder-mongodb.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-mongodb_opened.svg",
+    "name": "folder-mongodb_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-mypy.svg",
+    "name": "folder-mypy.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-mypy_opened.svg",
+    "name": "folder-mypy_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-mysql.svg",
+    "name": "folder-mysql.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-mysql_opened.svg",
+    "name": "folder-mysql_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-netlify.svg",
+    "name": "folder-netlify.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-netlify_opened.svg",
+    "name": "folder-netlify_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-next.svg",
+    "name": "folder-next.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-next_opened.svg",
+    "name": "folder-next_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-nginx.svg",
+    "name": "folder-nginx.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-nginx_opened.svg",
+    "name": "folder-nginx_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-nix.svg",
+    "name": "folder-nix.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-nix_opened.svg",
+    "name": "folder-nix_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-node.svg",
+    "name": "folder-node.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-node_opened.svg",
+    "name": "folder-node_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-notebooks.svg",
+    "name": "folder-notebooks.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-notebooks_opened.svg",
+    "name": "folder-notebooks_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-notification.svg",
+    "name": "folder-notification.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-notification_opened.svg",
+    "name": "folder-notification_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-nuget.svg",
+    "name": "folder-nuget.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-nuget_opened.svg",
+    "name": "folder-nuget_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-nuxt.svg",
+    "name": "folder-nuxt.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-nuxt_opened.svg",
+    "name": "folder-nuxt_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-package.svg",
+    "name": "folder-package.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-package_opened.svg",
+    "name": "folder-package_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-paket.svg",
+    "name": "folder-paket.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-paket_opened.svg",
+    "name": "folder-paket_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-php.svg",
+    "name": "folder-php.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-php_opened.svg",
+    "name": "folder-php_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-platformio.svg",
+    "name": "folder-platformio.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-platformio_opened.svg",
+    "name": "folder-platformio_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-plugin.svg",
+    "name": "folder-plugin.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-plugin_opened.svg",
+    "name": "folder-plugin_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-prisma.svg",
+    "name": "folder-prisma.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-prisma_opened.svg",
+    "name": "folder-prisma_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-private.svg",
+    "name": "folder-private.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-private_opened.svg",
+    "name": "folder-private_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-public.svg",
+    "name": "folder-public.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-public_opened.svg",
+    "name": "folder-public_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-pytest.svg",
+    "name": "folder-pytest.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-pytest_opened.svg",
+    "name": "folder-pytest_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-python.svg",
+    "name": "folder-python.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-python_opened.svg",
+    "name": "folder-python_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-ravendb.svg",
+    "name": "folder-ravendb.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-ravendb_opened.svg",
+    "name": "folder-ravendb_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-redis.svg",
+    "name": "folder-redis.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-redis_opened.svg",
+    "name": "folder-redis_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-redux.svg",
+    "name": "folder-redux.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-redux_opened.svg",
+    "name": "folder-redux_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-route.svg",
+    "name": "folder-route.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-route_opened.svg",
+    "name": "folder-route_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-sass.svg",
+    "name": "folder-sass.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-sass_opened.svg",
+    "name": "folder-sass_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-script.svg",
+    "name": "folder-script.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-script_opened.svg",
+    "name": "folder-script_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-seedkit.svg",
+    "name": "folder-seedkit.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-seedkit_opened.svg",
+    "name": "folder-seedkit_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-server.svg",
+    "name": "folder-server.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-server_opened.svg",
+    "name": "folder-server_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-services.svg",
+    "name": "folder-services.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-services_opened.svg",
+    "name": "folder-services_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-shared.svg",
+    "name": "folder-shared.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-shared_opened.svg",
+    "name": "folder-shared_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-snaplet.svg",
+    "name": "folder-snaplet.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-snaplet_opened.svg",
+    "name": "folder-snaplet_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-spin.svg",
+    "name": "folder-spin.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-spin_opened.svg",
+    "name": "folder-spin_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-src.svg",
+    "name": "folder-src.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-src_opened.svg",
+    "name": "folder-src_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-sso.svg",
+    "name": "folder-sso.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-sso_opened.svg",
+    "name": "folder-sso_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-story.svg",
+    "name": "folder-story.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-story_opened.svg",
+    "name": "folder-story_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-style.svg",
+    "name": "folder-style.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-style_opened.svg",
+    "name": "folder-style_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-supabase.svg",
+    "name": "folder-supabase.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-supabase_opened.svg",
+    "name": "folder-supabase_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-svelte.svg",
+    "name": "folder-svelte.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-svelte_opened.svg",
+    "name": "folder-svelte_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-tauri.svg",
+    "name": "folder-tauri.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-tauri_opened.svg",
+    "name": "folder-tauri_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-temp.svg",
+    "name": "folder-temp.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-temp_opened.svg",
+    "name": "folder-temp_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-template.svg",
+    "name": "folder-template.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-template_opened.svg",
+    "name": "folder-template_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-test.svg",
+    "name": "folder-test.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-test_opened.svg",
+    "name": "folder-test_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-theme.svg",
+    "name": "folder-theme.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-theme_opened.svg",
+    "name": "folder-theme_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-tools.svg",
+    "name": "folder-tools.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-tools_opened.svg",
+    "name": "folder-tools_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-travis.svg",
+    "name": "folder-travis.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-travis_opened.svg",
+    "name": "folder-travis_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-trunk.svg",
+    "name": "folder-trunk.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-trunk_opened.svg",
+    "name": "folder-trunk_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-turbo.svg",
+    "name": "folder-turbo.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-turbo_opened.svg",
+    "name": "folder-turbo_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-typescript.svg",
+    "name": "folder-typescript.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-typescript_opened.svg",
+    "name": "folder-typescript_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-typings.svg",
+    "name": "folder-typings.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-typings2.svg",
+    "name": "folder-typings2.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-typings2_opened.svg",
+    "name": "folder-typings2_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-typings_opened.svg",
+    "name": "folder-typings_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-vagrant.svg",
+    "name": "folder-vagrant.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-vagrant_opened.svg",
+    "name": "folder-vagrant_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-vercel.svg",
+    "name": "folder-vercel.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-vercel_opened.svg",
+    "name": "folder-vercel_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-video.svg",
+    "name": "folder-video.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-video_opened.svg",
+    "name": "folder-video_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-view.svg",
+    "name": "folder-view.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-view_opened.svg",
+    "name": "folder-view_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-vs.svg",
+    "name": "folder-vs.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-vs2.svg",
+    "name": "folder-vs2.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-vs2_opened.svg",
+    "name": "folder-vs2_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-vs_opened.svg",
+    "name": "folder-vs_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-vscode.svg",
+    "name": "folder-vscode.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-vscode2.svg",
+    "name": "folder-vscode2.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-vscode2_opened.svg",
+    "name": "folder-vscode2_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-vscode3.svg",
+    "name": "folder-vscode3.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-vscode3_opened.svg",
+    "name": "folder-vscode3_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-vscode_opened.svg",
+    "name": "folder-vscode_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-vscode_test.svg",
+    "name": "folder-vscode_test.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-vscode_test2.svg",
+    "name": "folder-vscode_test2.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-vscode_test2_opened.svg",
+    "name": "folder-vscode_test2_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-vscode_test3.svg",
+    "name": "folder-vscode_test3.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-vscode_test3_opened.svg",
+    "name": "folder-vscode_test3_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-vscode_test_opened.svg",
+    "name": "folder-vscode_test_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-webpack.svg",
+    "name": "folder-webpack.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-webpack_opened.svg",
+    "name": "folder-webpack_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-windows.svg",
+    "name": "folder-windows.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-windows_opened.svg",
+    "name": "folder-windows_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-wit.svg",
+    "name": "folder-wit.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-wit_opened.svg",
+    "name": "folder-wit_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-www.svg",
+    "name": "folder-www.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-www_opened.svg",
+    "name": "folder-www_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-yarn.svg",
+    "name": "folder-yarn.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/folder-yarn_opened.svg",
+    "name": "folder-yarn_opened.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/font.svg",
+    "name": "font.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/formkit.svg",
+    "name": "formkit.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/fortran.svg",
+    "name": "fortran.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/fossa.svg",
+    "name": "fossa.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/fossil.svg",
+    "name": "fossil.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/freemarker.svg",
+    "name": "freemarker.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/frontcommerce.svg",
+    "name": "frontcommerce.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/fsharp.svg",
+    "name": "fsharp.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/fsharp2.svg",
+    "name": "fsharp2.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/fsproj.svg",
+    "name": "fsproj.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/fthtml.svg",
+    "name": "fthtml.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/funding.svg",
+    "name": "funding.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/fusebox.svg",
+    "name": "fusebox.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/galen.svg",
+    "name": "galen.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/galen2.svg",
+    "name": "galen2.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/gamemaker.svg",
+    "name": "gamemaker.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/gamemaker2.svg",
+    "name": "gamemaker2.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/gamemaker81.svg",
+    "name": "gamemaker81.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/gatsby.svg",
+    "name": "gatsby.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/gcloud.svg",
+    "name": "gcloud.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/gcode.svg",
+    "name": "gcode.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/gdscript.svg",
+    "name": "gdscript.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/genstat.svg",
+    "name": "genstat.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/git.svg",
+    "name": "git.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/git2.svg",
+    "name": "git2.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/gitlab.svg",
+    "name": "gitlab.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/gitpod.svg",
+    "name": "gitpod.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/gleam.svg",
+    "name": "gleam.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/gleamconfig.svg",
+    "name": "gleamconfig.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/glide.svg",
+    "name": "glide.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/glitter.svg",
+    "name": "glitter.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/glsl.svg",
+    "name": "glsl.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/gltf.svg",
+    "name": "gltf.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/glyphs.svg",
+    "name": "glyphs.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/gnu.svg",
+    "name": "gnu.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/gnuplot.svg",
+    "name": "gnuplot.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/go.svg",
+    "name": "go.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/go_aqua.svg",
+    "name": "go_aqua.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/go_black.svg",
+    "name": "go_black.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/go_fuchsia.svg",
+    "name": "go_fuchsia.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/go_gopher.svg",
+    "name": "go_gopher.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/go_lightblue.svg",
+    "name": "go_lightblue.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/go_package.svg",
+    "name": "go_package.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/go_white.svg",
+    "name": "go_white.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/go_work.svg",
+    "name": "go_work.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/go_yellow.svg",
+    "name": "go_yellow.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/goctl.svg",
+    "name": "goctl.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/godot.svg",
+    "name": "godot.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/gpg.svg",
+    "name": "gpg.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/gradle.svg",
+    "name": "gradle.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/gradle2.svg",
+    "name": "gradle2.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/grain.svg",
+    "name": "grain.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/graphql.svg",
+    "name": "graphql.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/graphql_config.svg",
+    "name": "graphql_config.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/graphviz.svg",
+    "name": "graphviz.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/greenkeeper.svg",
+    "name": "greenkeeper.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/gridsome.svg",
+    "name": "gridsome.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/groovy.svg",
+    "name": "groovy.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/groovy2.svg",
+    "name": "groovy2.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/grunt.svg",
+    "name": "grunt.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/gulp.svg",
+    "name": "gulp.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/haml.svg",
+    "name": "haml.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/handlebars.svg",
+    "name": "handlebars.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/handlebars2.svg",
+    "name": "handlebars2.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/harbour.svg",
+    "name": "harbour.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/hardhat.svg",
+    "name": "hardhat.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/hashicorp.svg",
+    "name": "hashicorp.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/haskell.svg",
+    "name": "haskell.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/haskell2.svg",
+    "name": "haskell2.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/haxe.svg",
+    "name": "haxe.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/haxecheckstyle.svg",
+    "name": "haxecheckstyle.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/haxedevelop.svg",
+    "name": "haxedevelop.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/helix.svg",
+    "name": "helix.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/helm.svg",
+    "name": "helm.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/histoire.svg",
+    "name": "histoire.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/hjson.svg",
+    "name": "hjson.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/hlsl.svg",
+    "name": "hlsl.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/homeassistant.svg",
+    "name": "homeassistant.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/horusec.svg",
+    "name": "horusec.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/host.svg",
+    "name": "host.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/html.svg",
+    "name": "html.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/htmlhint.svg",
+    "name": "htmlhint.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/htmlvalidate.svg",
+    "name": "htmlvalidate.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/http.svg",
+    "name": "http.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/hugo.svg",
+    "name": "hugo.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/humanstxt.svg",
+    "name": "humanstxt.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/hunspell.svg",
+    "name": "hunspell.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/husky.svg",
+    "name": "husky.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/hy.svg",
+    "name": "hy.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/hygen.svg",
+    "name": "hygen.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/hypr.svg",
+    "name": "hypr.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/icl.svg",
+    "name": "icl.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/idris.svg",
+    "name": "idris.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/idrisbin.svg",
+    "name": "idrisbin.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/idrispkg.svg",
+    "name": "idrispkg.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/image.svg",
+    "name": "image.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/imba.svg",
+    "name": "imba.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/inc.svg",
+    "name": "inc.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/infopath.svg",
+    "name": "infopath.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/informix.svg",
+    "name": "informix.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/ini.svg",
+    "name": "ini.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/ink.svg",
+    "name": "ink.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/innosetup.svg",
+    "name": "innosetup.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/io.svg",
+    "name": "io.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/iodine.svg",
+    "name": "iodine.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/ionic.svg",
+    "name": "ionic.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/jake.svg",
+    "name": "jake.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/janet.svg",
+    "name": "janet.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/jar.svg",
+    "name": "jar.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/jasmine.svg",
+    "name": "jasmine.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/java.svg",
+    "name": "java.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/javascript.svg",
+    "name": "javascript.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/jbuilder.svg",
+    "name": "jbuilder.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/jekyll.svg",
+    "name": "jekyll.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/jenkins.svg",
+    "name": "jenkins.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/jest.svg",
+    "name": "jest.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/jest_snapshot.svg",
+    "name": "jest_snapshot.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/jinja.svg",
+    "name": "jinja.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/jpm.svg",
+    "name": "jpm.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/js_official.svg",
+    "name": "js_official.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/jsbeautify.svg",
+    "name": "jsbeautify.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/jsconfig.svg",
+    "name": "jsconfig.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/jscpd.svg",
+    "name": "jscpd.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/jshint.svg",
+    "name": "jshint.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/jsmap.svg",
+    "name": "jsmap.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/json.svg",
+    "name": "json.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/json2.svg",
+    "name": "json2.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/json5.svg",
+    "name": "json5.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/json_official.svg",
+    "name": "json_official.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/json_schema.svg",
+    "name": "json_schema.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/jsonld.svg",
+    "name": "jsonld.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/jsonnet.svg",
+    "name": "jsonnet.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/jsp.svg",
+    "name": "jsp.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/jsr.svg",
+    "name": "jsr.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/jss.svg",
+    "name": "jss.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/juice.svg",
+    "name": "juice.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/julia.svg",
+    "name": "julia.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/julia2.svg",
+    "name": "julia2.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/jupyter.svg",
+    "name": "jupyter.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/just.svg",
+    "name": "just.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/k.svg",
+    "name": "k.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/karma.svg",
+    "name": "karma.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/key.svg",
+    "name": "key.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/kitchenci.svg",
+    "name": "kitchenci.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/kite.svg",
+    "name": "kite.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/kivy.svg",
+    "name": "kivy.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/knip.svg",
+    "name": "knip.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/kos.svg",
+    "name": "kos.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/kotlin.svg",
+    "name": "kotlin.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/kusto.svg",
+    "name": "kusto.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/language_configuration.svg",
+    "name": "language_configuration.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/lark.svg",
+    "name": "lark.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/latino.svg",
+    "name": "latino.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/layout.svg",
+    "name": "layout.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/lefthook.svg",
+    "name": "lefthook.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/lerna.svg",
+    "name": "lerna.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/less.svg",
+    "name": "less.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/lex.svg",
+    "name": "lex.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/liara.svg",
+    "name": "liara.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/libreoffice_base.svg",
+    "name": "libreoffice_base.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/libreoffice_calc.svg",
+    "name": "libreoffice_calc.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/libreoffice_draw.svg",
+    "name": "libreoffice_draw.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/libreoffice_impress.svg",
+    "name": "libreoffice_impress.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/libreoffice_math.svg",
+    "name": "libreoffice_math.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/libreoffice_writer.svg",
+    "name": "libreoffice_writer.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/license.svg",
+    "name": "license.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/licensebat.svg",
+    "name": "licensebat.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_actionscript2.svg",
+    "name": "light_actionscript2.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_ada.svg",
+    "name": "light_ada.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_agda.svg",
+    "name": "light_agda.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_apl.svg",
+    "name": "light_apl.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_astro.svg",
+    "name": "light_astro.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_astroconfig.svg",
+    "name": "light_astroconfig.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_babel.svg",
+    "name": "light_babel.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_babel2.svg",
+    "name": "light_babel2.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_cabal.svg",
+    "name": "light_cabal.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_circleci.svg",
+    "name": "light_circleci.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_cloudfoundry.svg",
+    "name": "light_cloudfoundry.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_codacy.svg",
+    "name": "light_codacy.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_codeclimate.svg",
+    "name": "light_codeclimate.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_codeowners.svg",
+    "name": "light_codeowners.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_config.svg",
+    "name": "light_config.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_copilot.svg",
+    "name": "light_copilot.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_crystal.svg",
+    "name": "light_crystal.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_cypress.svg",
+    "name": "light_cypress.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_cypress_spec.svg",
+    "name": "light_cypress_spec.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_db.svg",
+    "name": "light_db.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_dhall.svg",
+    "name": "light_dhall.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_docpad.svg",
+    "name": "light_docpad.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_drone.svg",
+    "name": "light_drone.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_eas-metadata.svg",
+    "name": "light_eas-metadata.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_eleventy.svg",
+    "name": "light_eleventy.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_eleventy2.svg",
+    "name": "light_eleventy2.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_esphome.svg",
+    "name": "light_esphome.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_expo.svg",
+    "name": "light_expo.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_firebasehosting.svg",
+    "name": "light_firebasehosting.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_fla.svg",
+    "name": "light_fla.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_font.svg",
+    "name": "light_font.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_gamemaker2.svg",
+    "name": "light_gamemaker2.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_gradle.svg",
+    "name": "light_gradle.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_hashicorp.svg",
+    "name": "light_hashicorp.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_hjson.svg",
+    "name": "light_hjson.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_ini.svg",
+    "name": "light_ini.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_io.svg",
+    "name": "light_io.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_js.svg",
+    "name": "light_js.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_jsconfig.svg",
+    "name": "light_jsconfig.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_jsmap.svg",
+    "name": "light_jsmap.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_json.svg",
+    "name": "light_json.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_json5.svg",
+    "name": "light_json5.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_json_schema.svg",
+    "name": "light_json_schema.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_jsonld.svg",
+    "name": "light_jsonld.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_kite.svg",
+    "name": "light_kite.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_lark.svg",
+    "name": "light_lark.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_lerna.svg",
+    "name": "light_lerna.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_mailing.svg",
+    "name": "light_mailing.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_markuplint.svg",
+    "name": "light_markuplint.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_mdx-components.svg",
+    "name": "light_mdx-components.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_mdx.svg",
+    "name": "light_mdx.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_mlang.svg",
+    "name": "light_mlang.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_mustache.svg",
+    "name": "light_mustache.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_mypy.svg",
+    "name": "light_mypy.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_neo4j.svg",
+    "name": "light_neo4j.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_netlify.svg",
+    "name": "light_netlify.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_next.svg",
+    "name": "light_next.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_nim.svg",
+    "name": "light_nim.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_nx.svg",
+    "name": "light_nx.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_objidconfig.svg",
+    "name": "light_objidconfig.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_openHAB.svg",
+    "name": "light_openHAB.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_pcl.svg",
+    "name": "light_pcl.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_pnpm.svg",
+    "name": "light_pnpm.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_prettier.svg",
+    "name": "light_prettier.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_prisma.svg",
+    "name": "light_prisma.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_purescript.svg",
+    "name": "light_purescript.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_quasar.svg",
+    "name": "light_quasar.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_raku.svg",
+    "name": "light_raku.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_razzle.svg",
+    "name": "light_razzle.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_reactrouter.svg",
+    "name": "light_reactrouter.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_rehype.svg",
+    "name": "light_rehype.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_remark.svg",
+    "name": "light_remark.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_replit.svg",
+    "name": "light_replit.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_retext.svg",
+    "name": "light_retext.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_rome.svg",
+    "name": "light_rome.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_rubocop.svg",
+    "name": "light_rubocop.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_rust.svg",
+    "name": "light_rust.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_rust_toolchain.svg",
+    "name": "light_rust_toolchain.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_safetensors.svg",
+    "name": "light_safetensors.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_shaderlab.svg",
+    "name": "light_shaderlab.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_solidity.svg",
+    "name": "light_solidity.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_spin.svg",
+    "name": "light_spin.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_stylelint.svg",
+    "name": "light_stylelint.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_stylus.svg",
+    "name": "light_stylus.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_symfony.svg",
+    "name": "light_symfony.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_systemd.svg",
+    "name": "light_systemd.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_systemverilog.svg",
+    "name": "light_systemverilog.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_testcafe.svg",
+    "name": "light_testcafe.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_testjs.svg",
+    "name": "light_testjs.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_tex.svg",
+    "name": "light_tex.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_tm.svg",
+    "name": "light_tm.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_tmux.svg",
+    "name": "light_tmux.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_todo.svg",
+    "name": "light_todo.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_toit.svg",
+    "name": "light_toit.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_toml.svg",
+    "name": "light_toml.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_tree.svg",
+    "name": "light_tree.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_turbo.svg",
+    "name": "light_turbo.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_unibeautify.svg",
+    "name": "light_unibeautify.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_vash.svg",
+    "name": "light_vash.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_vercel.svg",
+    "name": "light_vercel.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_vsix.svg",
+    "name": "light_vsix.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_vsixmanifest.svg",
+    "name": "light_vsixmanifest.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_xfl.svg",
+    "name": "light_xfl.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_xorg.svg",
+    "name": "light_xorg.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_yaml.svg",
+    "name": "light_yaml.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/light_yaml_official.svg",
+    "name": "light_yaml_official.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/lighthouse.svg",
+    "name": "lighthouse.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/lilypond.svg",
+    "name": "lilypond.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/lime.svg",
+    "name": "lime.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/lintstagedrc.svg",
+    "name": "lintstagedrc.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/liquid.svg",
+    "name": "liquid.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/lisp.svg",
+    "name": "lisp.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/livescript.svg",
+    "name": "livescript.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/lnk.svg",
+    "name": "lnk.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/locale.svg",
+    "name": "locale.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/log.svg",
+    "name": "log.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/lolcode.svg",
+    "name": "lolcode.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/lsl.svg",
+    "name": "lsl.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/lua.svg",
+    "name": "lua.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/luau.svg",
+    "name": "luau.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/lync.svg",
+    "name": "lync.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/mailing.svg",
+    "name": "mailing.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/manifest.svg",
+    "name": "manifest.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/manifest_bak.svg",
+    "name": "manifest_bak.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/manifest_skip.svg",
+    "name": "manifest_skip.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/map.svg",
+    "name": "map.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/mariadb.svg",
+    "name": "mariadb.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/markdown.svg",
+    "name": "markdown.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/markdownlint.svg",
+    "name": "markdownlint.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/markdownlint_ignore.svg",
+    "name": "markdownlint_ignore.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/marko.svg",
+    "name": "marko.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/markojs.svg",
+    "name": "markojs.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/markuplint.svg",
+    "name": "markuplint.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/master-co.svg",
+    "name": "master-co.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/matlab.svg",
+    "name": "matlab.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/maven.svg",
+    "name": "maven.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/maxscript.svg",
+    "name": "maxscript.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/maya.svg",
+    "name": "maya.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/mdx-components.svg",
+    "name": "mdx-components.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/mdx.svg",
+    "name": "mdx.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/mediawiki.svg",
+    "name": "mediawiki.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/mercurial.svg",
+    "name": "mercurial.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/mermaid.svg",
+    "name": "mermaid.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/meson.svg",
+    "name": "meson.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/metal.svg",
+    "name": "metal.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/meteor.svg",
+    "name": "meteor.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/minecraft.svg",
+    "name": "minecraft.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/mivascript.svg",
+    "name": "mivascript.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/mjml.svg",
+    "name": "mjml.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/mlang.svg",
+    "name": "mlang.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/mocha.svg",
+    "name": "mocha.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/modernizr.svg",
+    "name": "modernizr.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/mojo.svg",
+    "name": "mojo.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/mojolicious.svg",
+    "name": "mojolicious.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/moleculer.svg",
+    "name": "moleculer.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/mondoo.svg",
+    "name": "mondoo.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/mongo.svg",
+    "name": "mongo.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/monotone.svg",
+    "name": "monotone.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/motif.svg",
+    "name": "motif.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/mson.svg",
+    "name": "mson.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/mustache.svg",
+    "name": "mustache.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/mvt.svg",
+    "name": "mvt.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/mvtcss.svg",
+    "name": "mvtcss.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/mvtjs.svg",
+    "name": "mvtjs.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/mypy.svg",
+    "name": "mypy.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/mysql.svg",
+    "name": "mysql.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/ndst.svg",
+    "name": "ndst.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/nearly.svg",
+    "name": "nearly.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/neo4j.svg",
+    "name": "neo4j.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/nest_adapter_js.svg",
+    "name": "nest_adapter_js.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/nest_adapter_ts.svg",
+    "name": "nest_adapter_ts.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/nest_controller_js.svg",
+    "name": "nest_controller_js.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/nest_controller_ts.svg",
+    "name": "nest_controller_ts.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/nest_decorator_js.svg",
+    "name": "nest_decorator_js.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/nest_decorator_ts.svg",
+    "name": "nest_decorator_ts.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/nest_filter_js.svg",
+    "name": "nest_filter_js.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/nest_filter_ts.svg",
+    "name": "nest_filter_ts.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/nest_gateway_js.svg",
+    "name": "nest_gateway_js.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/nest_gateway_ts.svg",
+    "name": "nest_gateway_ts.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/nest_guard_js.svg",
+    "name": "nest_guard_js.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/nest_guard_ts.svg",
+    "name": "nest_guard_ts.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/nest_interceptor_js.svg",
+    "name": "nest_interceptor_js.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/nest_interceptor_ts.svg",
+    "name": "nest_interceptor_ts.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/nest_middleware_js.svg",
+    "name": "nest_middleware_js.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/nest_middleware_ts.svg",
+    "name": "nest_middleware_ts.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/nest_module_js.svg",
+    "name": "nest_module_js.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/nest_module_ts.svg",
+    "name": "nest_module_ts.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/nest_pipe_js.svg",
+    "name": "nest_pipe_js.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/nest_pipe_ts.svg",
+    "name": "nest_pipe_ts.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/nest_service_js.svg",
+    "name": "nest_service_js.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/nest_service_ts.svg",
+    "name": "nest_service_ts.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/nestjs.svg",
+    "name": "nestjs.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/netlify.svg",
+    "name": "netlify.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/next.svg",
+    "name": "next.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/nextflow.svg",
+    "name": "nextflow.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/ng_component_css.svg",
+    "name": "ng_component_css.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/ng_component_dart.svg",
+    "name": "ng_component_dart.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/ng_component_html.svg",
+    "name": "ng_component_html.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/ng_component_js.svg",
+    "name": "ng_component_js.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/ng_component_js2.svg",
+    "name": "ng_component_js2.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/ng_component_less.svg",
+    "name": "ng_component_less.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/ng_component_sass.svg",
+    "name": "ng_component_sass.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/ng_component_scss.svg",
+    "name": "ng_component_scss.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/ng_component_ts.svg",
+    "name": "ng_component_ts.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/ng_component_ts2.svg",
+    "name": "ng_component_ts2.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/ng_controller_js.svg",
+    "name": "ng_controller_js.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/ng_controller_ts.svg",
+    "name": "ng_controller_ts.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/ng_directive_dart.svg",
+    "name": "ng_directive_dart.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/ng_directive_js.svg",
+    "name": "ng_directive_js.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/ng_directive_js2.svg",
+    "name": "ng_directive_js2.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/ng_directive_ts.svg",
+    "name": "ng_directive_ts.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/ng_directive_ts2.svg",
+    "name": "ng_directive_ts2.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/ng_guard_dart.svg",
+    "name": "ng_guard_dart.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/ng_guard_js.svg",
+    "name": "ng_guard_js.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/ng_guard_ts.svg",
+    "name": "ng_guard_ts.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/ng_interceptor_dart.svg",
+    "name": "ng_interceptor_dart.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/ng_interceptor_js.svg",
+    "name": "ng_interceptor_js.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/ng_interceptor_ts.svg",
+    "name": "ng_interceptor_ts.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/ng_module_dart.svg",
+    "name": "ng_module_dart.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/ng_module_js.svg",
+    "name": "ng_module_js.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/ng_module_js2.svg",
+    "name": "ng_module_js2.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/ng_module_ts.svg",
+    "name": "ng_module_ts.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/ng_module_ts2.svg",
+    "name": "ng_module_ts2.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/ng_pipe_dart.svg",
+    "name": "ng_pipe_dart.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/ng_pipe_js.svg",
+    "name": "ng_pipe_js.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/ng_pipe_js2.svg",
+    "name": "ng_pipe_js2.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/ng_pipe_ts.svg",
+    "name": "ng_pipe_ts.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/ng_pipe_ts2.svg",
+    "name": "ng_pipe_ts2.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/ng_routing_dart.svg",
+    "name": "ng_routing_dart.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/ng_routing_js.svg",
+    "name": "ng_routing_js.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/ng_routing_js2.svg",
+    "name": "ng_routing_js2.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/ng_routing_ts.svg",
+    "name": "ng_routing_ts.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/ng_routing_ts2.svg",
+    "name": "ng_routing_ts2.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/ng_service_dart.svg",
+    "name": "ng_service_dart.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/ng_service_js.svg",
+    "name": "ng_service_js.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/ng_service_js2.svg",
+    "name": "ng_service_js2.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/ng_service_ts.svg",
+    "name": "ng_service_ts.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/ng_service_ts2.svg",
+    "name": "ng_service_ts2.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/ng_smart_component_dart.svg",
+    "name": "ng_smart_component_dart.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/ng_smart_component_js.svg",
+    "name": "ng_smart_component_js.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/ng_smart_component_js2.svg",
+    "name": "ng_smart_component_js2.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/ng_smart_component_ts.svg",
+    "name": "ng_smart_component_ts.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/ng_smart_component_ts2.svg",
+    "name": "ng_smart_component_ts2.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/ng_tailwind.svg",
+    "name": "ng_tailwind.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/nginx.svg",
+    "name": "nginx.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/nim.svg",
+    "name": "nim.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/nimble.svg",
+    "name": "nimble.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/ninja.svg",
+    "name": "ninja.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/nix.svg",
+    "name": "nix.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/njsproj.svg",
+    "name": "njsproj.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/noc.svg",
+    "name": "noc.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/node.svg",
+    "name": "node.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/node2.svg",
+    "name": "node2.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/nodemon.svg",
+    "name": "nodemon.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/npm.svg",
+    "name": "npm.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/npmpackagejsonlint.svg",
+    "name": "npmpackagejsonlint.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/nsi.svg",
+    "name": "nsi.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/nsri-integrity.svg",
+    "name": "nsri-integrity.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/nsri.svg",
+    "name": "nsri.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/nuget.svg",
+    "name": "nuget.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/numpy.svg",
+    "name": "numpy.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/nunjucks.svg",
+    "name": "nunjucks.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/nuxt.svg",
+    "name": "nuxt.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/nx.svg",
+    "name": "nx.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/nyc.svg",
+    "name": "nyc.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/objectivec.svg",
+    "name": "objectivec.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/objectivecpp.svg",
+    "name": "objectivecpp.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/objidconfig.svg",
+    "name": "objidconfig.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/ocaml.svg",
+    "name": "ocaml.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/ocaml_intf.svg",
+    "name": "ocaml_intf.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/ogone.svg",
+    "name": "ogone.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/onenote.svg",
+    "name": "onenote.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/opam.svg",
+    "name": "opam.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/openHAB.svg",
+    "name": "openHAB.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/opencl.svg",
+    "name": "opencl.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/openscad.svg",
+    "name": "openscad.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/opentofu.svg",
+    "name": "opentofu.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/org.svg",
+    "name": "org.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/outlook.svg",
+    "name": "outlook.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/ovpn.svg",
+    "name": "ovpn.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/oxlint.svg",
+    "name": "oxlint.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/package.svg",
+    "name": "package.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/paket.svg",
+    "name": "paket.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/pandacss.svg",
+    "name": "pandacss.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/patch.svg",
+    "name": "patch.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/pcl.svg",
+    "name": "pcl.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/pddl.svg",
+    "name": "pddl.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/pddl_happenings.svg",
+    "name": "pddl_happenings.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/pddl_plan.svg",
+    "name": "pddl_plan.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/pdf.svg",
+    "name": "pdf.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/pdf2.svg",
+    "name": "pdf2.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/pdm.svg",
+    "name": "pdm.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/peeky.svg",
+    "name": "peeky.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/perl.svg",
+    "name": "perl.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/perl2.svg",
+    "name": "perl2.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/perl6.svg",
+    "name": "perl6.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/pgsql.svg",
+    "name": "pgsql.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/photoshop.svg",
+    "name": "photoshop.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/photoshop2.svg",
+    "name": "photoshop2.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/php.svg",
+    "name": "php.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/php2.svg",
+    "name": "php2.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/php3.svg",
+    "name": "php3.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/phpcsfixer.svg",
+    "name": "phpcsfixer.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/phpstan.svg",
+    "name": "phpstan.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/phpunit.svg",
+    "name": "phpunit.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/phraseapp.svg",
+    "name": "phraseapp.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/pine.svg",
+    "name": "pine.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/pip.svg",
+    "name": "pip.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/pipeline.svg",
+    "name": "pipeline.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/plantuml.svg",
+    "name": "plantuml.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/platformio.svg",
+    "name": "platformio.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/playwright.svg",
+    "name": "playwright.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/plsql.svg",
+    "name": "plsql.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/plsql_package.svg",
+    "name": "plsql_package.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/plsql_package_body.svg",
+    "name": "plsql_package_body.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/plsql_package_header.svg",
+    "name": "plsql_package_header.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/plsql_package_spec.svg",
+    "name": "plsql_package_spec.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/pm2.svg",
+    "name": "pm2.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/pnpm.svg",
+    "name": "pnpm.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/poedit.svg",
+    "name": "poedit.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/poetry.svg",
+    "name": "poetry.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/polymer.svg",
+    "name": "polymer.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/pony.svg",
+    "name": "pony.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/postcss.svg",
+    "name": "postcss.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/postcssconfig.svg",
+    "name": "postcssconfig.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/postman.svg",
+    "name": "postman.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/powerpoint.svg",
+    "name": "powerpoint.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/powerpoint2.svg",
+    "name": "powerpoint2.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/powershell.svg",
+    "name": "powershell.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/powershell2.svg",
+    "name": "powershell2.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/powershell_format.svg",
+    "name": "powershell_format.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/powershell_psd.svg",
+    "name": "powershell_psd.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/powershell_psd2.svg",
+    "name": "powershell_psd2.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/powershell_psm.svg",
+    "name": "powershell_psm.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/powershell_psm2.svg",
+    "name": "powershell_psm2.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/powershell_types.svg",
+    "name": "powershell_types.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/preact.svg",
+    "name": "preact.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/precommit.svg",
+    "name": "precommit.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/prettier.svg",
+    "name": "prettier.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/prisma.svg",
+    "name": "prisma.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/processinglang.svg",
+    "name": "processinglang.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/procfile.svg",
+    "name": "procfile.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/progress.svg",
+    "name": "progress.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/prolog.svg",
+    "name": "prolog.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/prometheus.svg",
+    "name": "prometheus.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/protobuf.svg",
+    "name": "protobuf.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/protractor.svg",
+    "name": "protractor.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/publiccode.svg",
+    "name": "publiccode.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/publisher.svg",
+    "name": "publisher.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/pug.svg",
+    "name": "pug.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/pulumi.svg",
+    "name": "pulumi.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/puppet.svg",
+    "name": "puppet.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/purescript.svg",
+    "name": "purescript.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/purgecss.svg",
+    "name": "purgecss.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/pyenv.svg",
+    "name": "pyenv.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/pyret.svg",
+    "name": "pyret.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/pyscript.svg",
+    "name": "pyscript.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/pytest.svg",
+    "name": "pytest.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/python.svg",
+    "name": "python.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/pythowo.svg",
+    "name": "pythowo.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/pytyped.svg",
+    "name": "pytyped.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/pyup.svg",
+    "name": "pyup.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/q.svg",
+    "name": "q.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/qbs.svg",
+    "name": "qbs.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/qlikview.svg",
+    "name": "qlikview.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/qml.svg",
+    "name": "qml.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/qmldir.svg",
+    "name": "qmldir.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/qsharp.svg",
+    "name": "qsharp.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/quasar.svg",
+    "name": "quasar.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/r.svg",
+    "name": "r.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/ra_syntax_tree.svg",
+    "name": "ra_syntax_tree.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/racket.svg",
+    "name": "racket.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/rails.svg",
+    "name": "rails.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/rake.svg",
+    "name": "rake.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/raku.svg",
+    "name": "raku.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/raml.svg",
+    "name": "raml.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/razor.svg",
+    "name": "razor.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/razzle.svg",
+    "name": "razzle.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/reactjs.svg",
+    "name": "reactjs.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/reactrouter.svg",
+    "name": "reactrouter.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/reacttemplate.svg",
+    "name": "reacttemplate.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/reactts.svg",
+    "name": "reactts.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/reason.svg",
+    "name": "reason.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/red.svg",
+    "name": "red.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/registry.svg",
+    "name": "registry.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/rego.svg",
+    "name": "rego.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/rehype.svg",
+    "name": "rehype.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/remark.svg",
+    "name": "remark.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/renovate.svg",
+    "name": "renovate.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/replit.svg",
+    "name": "replit.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/rescript.svg",
+    "name": "rescript.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/rest.svg",
+    "name": "rest.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/retext.svg",
+    "name": "retext.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/rexx.svg",
+    "name": "rexx.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/riot.svg",
+    "name": "riot.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/rmd.svg",
+    "name": "rmd.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/rnc.svg",
+    "name": "rnc.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/robotframework.svg",
+    "name": "robotframework.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/robots.svg",
+    "name": "robots.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/rolldown.svg",
+    "name": "rolldown.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/rollup.svg",
+    "name": "rollup.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/rome.svg",
+    "name": "rome.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/ron.svg",
+    "name": "ron.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/rproj.svg",
+    "name": "rproj.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/rspec.svg",
+    "name": "rspec.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/rss.svg",
+    "name": "rss.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/rubocop.svg",
+    "name": "rubocop.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/ruby.svg",
+    "name": "ruby.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/rust.svg",
+    "name": "rust.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/rust_toolchain.svg",
+    "name": "rust_toolchain.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/s-lang.svg",
+    "name": "s-lang.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/safetensors.svg",
+    "name": "safetensors.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/sails.svg",
+    "name": "sails.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/saltstack.svg",
+    "name": "saltstack.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/san.svg",
+    "name": "san.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/sapphire_framework_cli.svg",
+    "name": "sapphire_framework_cli.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/sas.svg",
+    "name": "sas.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/sass.svg",
+    "name": "sass.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/sbt.svg",
+    "name": "sbt.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/scala.svg",
+    "name": "scala.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/scilab.svg",
+    "name": "scilab.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/script.svg",
+    "name": "script.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/scss.svg",
+    "name": "scss.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/scss2.svg",
+    "name": "scss2.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/sdlang.svg",
+    "name": "sdlang.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/search_result.svg",
+    "name": "search_result.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/seedkit.svg",
+    "name": "seedkit.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/sentry.svg",
+    "name": "sentry.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/sequelize.svg",
+    "name": "sequelize.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/serverless.svg",
+    "name": "serverless.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/shaderlab.svg",
+    "name": "shaderlab.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/shell.svg",
+    "name": "shell.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/shellcheck.svg",
+    "name": "shellcheck.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/shuttle.svg",
+    "name": "shuttle.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/silverstripe.svg",
+    "name": "silverstripe.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/sino.svg",
+    "name": "sino.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/siyuan.svg",
+    "name": "siyuan.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/sketch.svg",
+    "name": "sketch.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/skipper.svg",
+    "name": "skipper.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/slang.svg",
+    "name": "slang.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/slashup.svg",
+    "name": "slashup.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/slice.svg",
+    "name": "slice.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/slim.svg",
+    "name": "slim.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/slint.svg",
+    "name": "slint.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/sln.svg",
+    "name": "sln.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/sln2.svg",
+    "name": "sln2.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/smarty.svg",
+    "name": "smarty.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/snakemake.svg",
+    "name": "snakemake.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/snapcraft.svg",
+    "name": "snapcraft.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/snaplet.svg",
+    "name": "snaplet.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/snort.svg",
+    "name": "snort.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/snyk.svg",
+    "name": "snyk.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/solidarity.svg",
+    "name": "solidarity.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/solidity.svg",
+    "name": "solidity.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/source.svg",
+    "name": "source.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/spacengine.svg",
+    "name": "spacengine.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/sparql.svg",
+    "name": "sparql.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/spin.svg",
+    "name": "spin.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/sqf.svg",
+    "name": "sqf.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/sql.svg",
+    "name": "sql.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/sqlite.svg",
+    "name": "sqlite.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/squirrel.svg",
+    "name": "squirrel.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/sss.svg",
+    "name": "sss.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/sst.svg",
+    "name": "sst.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/stackblitz.svg",
+    "name": "stackblitz.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/stan.svg",
+    "name": "stan.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/stata.svg",
+    "name": "stata.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/stencil.svg",
+    "name": "stencil.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/storyboard.svg",
+    "name": "storyboard.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/storybook.svg",
+    "name": "storybook.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/stryker.svg",
+    "name": "stryker.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/stylable.svg",
+    "name": "stylable.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/style.svg",
+    "name": "style.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/styled.svg",
+    "name": "styled.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/stylelint.svg",
+    "name": "stylelint.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/stylish_haskell.svg",
+    "name": "stylish_haskell.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/stylus.svg",
+    "name": "stylus.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/sublime.svg",
+    "name": "sublime.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/subversion.svg",
+    "name": "subversion.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/svelte.svg",
+    "name": "svelte.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/svelteconfig.svg",
+    "name": "svelteconfig.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/svg.svg",
+    "name": "svg.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/svgo.svg",
+    "name": "svgo.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/swagger.svg",
+    "name": "swagger.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/swc.svg",
+    "name": "swc.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/swift.svg",
+    "name": "swift.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/swig.svg",
+    "name": "swig.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/symfony.svg",
+    "name": "symfony.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/syncpack.svg",
+    "name": "syncpack.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/systemd.svg",
+    "name": "systemd.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/systemverilog.svg",
+    "name": "systemverilog.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/t4tt.svg",
+    "name": "t4tt.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/tailwind.svg",
+    "name": "tailwind.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/tamagui.svg",
+    "name": "tamagui.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/taplo.svg",
+    "name": "taplo.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/taskfile.svg",
+    "name": "taskfile.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/tauri.svg",
+    "name": "tauri.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/tcl.svg",
+    "name": "tcl.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/teal.svg",
+    "name": "teal.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/templ.svg",
+    "name": "templ.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/tera.svg",
+    "name": "tera.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/terraform.svg",
+    "name": "terraform.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/test.svg",
+    "name": "test.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/testcafe.svg",
+    "name": "testcafe.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/testjs.svg",
+    "name": "testjs.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/testplane.svg",
+    "name": "testplane.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/testts.svg",
+    "name": "testts.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/tex.svg",
+    "name": "tex.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/text.svg",
+    "name": "text.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/textile.svg",
+    "name": "textile.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/tfs.svg",
+    "name": "tfs.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/tiltfile.svg",
+    "name": "tiltfile.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/tm.svg",
+    "name": "tm.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/tmux.svg",
+    "name": "tmux.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/todo.svg",
+    "name": "todo.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/toit.svg",
+    "name": "toit.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/toml.svg",
+    "name": "toml.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/tox.svg",
+    "name": "tox.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/travis.svg",
+    "name": "travis.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/tree.svg",
+    "name": "tree.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/tres.svg",
+    "name": "tres.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/truffle.svg",
+    "name": "truffle.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/trunk.svg",
+    "name": "trunk.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/tsbuildinfo.svg",
+    "name": "tsbuildinfo.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/tscn.svg",
+    "name": "tscn.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/tsconfig.svg",
+    "name": "tsconfig.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/tsconfig_official.svg",
+    "name": "tsconfig_official.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/tsdoc.svg",
+    "name": "tsdoc.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/tslint.svg",
+    "name": "tslint.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/tt.svg",
+    "name": "tt.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/ttcn.svg",
+    "name": "ttcn.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/tuc.svg",
+    "name": "tuc.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/turbo.svg",
+    "name": "turbo.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/twig.svg",
+    "name": "twig.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/typedoc.svg",
+    "name": "typedoc.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/typescript.svg",
+    "name": "typescript.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/typescript_official.svg",
+    "name": "typescript_official.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/typescriptdef.svg",
+    "name": "typescriptdef.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/typescriptdef_official.svg",
+    "name": "typescriptdef_official.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/typo3.svg",
+    "name": "typo3.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/uiua.svg",
+    "name": "uiua.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/unibeautify.svg",
+    "name": "unibeautify.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/unison.svg",
+    "name": "unison.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/unlicense.svg",
+    "name": "unlicense.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/unocss.svg",
+    "name": "unocss.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/vagrant.svg",
+    "name": "vagrant.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/vala.svg",
+    "name": "vala.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/vanilla_extract.svg",
+    "name": "vanilla_extract.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/vapi.svg",
+    "name": "vapi.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/vapor.svg",
+    "name": "vapor.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/vash.svg",
+    "name": "vash.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/vb.svg",
+    "name": "vb.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/vba.svg",
+    "name": "vba.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/vbhtml.svg",
+    "name": "vbhtml.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/vbproj.svg",
+    "name": "vbproj.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/vcxproj.svg",
+    "name": "vcxproj.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/velocity.svg",
+    "name": "velocity.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/vento.svg",
+    "name": "vento.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/vercel.svg",
+    "name": "vercel.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/verilog.svg",
+    "name": "verilog.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/vhdl.svg",
+    "name": "vhdl.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/video.svg",
+    "name": "video.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/view.svg",
+    "name": "view.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/vim.svg",
+    "name": "vim.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/vite.svg",
+    "name": "vite.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/vitest.svg",
+    "name": "vitest.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/vlang.svg",
+    "name": "vlang.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/volt.svg",
+    "name": "volt.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/vscode-insiders.svg",
+    "name": "vscode-insiders.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/vscode.svg",
+    "name": "vscode.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/vscode2.svg",
+    "name": "vscode2.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/vscode3.svg",
+    "name": "vscode3.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/vscode_test.svg",
+    "name": "vscode_test.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/vsix.svg",
+    "name": "vsix.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/vsixmanifest.svg",
+    "name": "vsixmanifest.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/vue.svg",
+    "name": "vue.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/vueconfig.svg",
+    "name": "vueconfig.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/vyper.svg",
+    "name": "vyper.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/wallaby.svg",
+    "name": "wallaby.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/wally.svg",
+    "name": "wally.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/wasm.svg",
+    "name": "wasm.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/watchmanconfig.svg",
+    "name": "watchmanconfig.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/wdio.svg",
+    "name": "wdio.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/weblate.svg",
+    "name": "weblate.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/webpack.svg",
+    "name": "webpack.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/wenyan.svg",
+    "name": "wenyan.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/wercker.svg",
+    "name": "wercker.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/wgsl.svg",
+    "name": "wgsl.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/wikitext.svg",
+    "name": "wikitext.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/windi.svg",
+    "name": "windi.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/wit.svg",
+    "name": "wit.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/wolfram.svg",
+    "name": "wolfram.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/word.svg",
+    "name": "word.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/word2.svg",
+    "name": "word2.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/wpml.svg",
+    "name": "wpml.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/wurst.svg",
+    "name": "wurst.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/wxml.svg",
+    "name": "wxml.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/wxss.svg",
+    "name": "wxss.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/wxt.svg",
+    "name": "wxt.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/xcode.svg",
+    "name": "xcode.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/xfl.svg",
+    "name": "xfl.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/xib.svg",
+    "name": "xib.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/xliff.svg",
+    "name": "xliff.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/xmake.svg",
+    "name": "xmake.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/xml.svg",
+    "name": "xml.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/xo.svg",
+    "name": "xo.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/xorg.svg",
+    "name": "xorg.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/xquery.svg",
+    "name": "xquery.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/xsl.svg",
+    "name": "xsl.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/yacc.svg",
+    "name": "yacc.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/yaml.svg",
+    "name": "yaml.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/yaml_official.svg",
+    "name": "yaml_official.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/yamllint.svg",
+    "name": "yamllint.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/yandex.svg",
+    "name": "yandex.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/yang.svg",
+    "name": "yang.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/yarn.svg",
+    "name": "yarn.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/yeoman.svg",
+    "name": "yeoman.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/zig.svg",
+    "name": "zig.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/zip.svg",
+    "name": "zip.svg"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/HanzoDev1375/svg-icon/main/appicon2/zip2.svg",
+    "name": "zip2.svg"
   }
 ]
