@@ -52,3 +52,6 @@ if __name__ == "__main__":
             print("Failed to save JSON file.")
     else:
         print("No SVG files found or error occurred.")
+
+
+#code by
